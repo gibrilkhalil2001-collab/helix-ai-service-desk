@@ -2,6 +2,8 @@
 
 # Helix: An Agentic Service Desk for School and SME IT Support
 
+![Helix evaluation summary](docs/evaluation.svg)
+
 Multi agent AI system that triages IT support tickets, answers from documented procedure with
 citations, takes real actions through a permissioned tool layer, and hands over to a human the
 moment it reaches something it should not decide on its own.
