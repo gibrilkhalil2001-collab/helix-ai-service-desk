@@ -1,3 +1,5 @@
+[![CI](https://github.com/gibrilkhalil2001-collab/helix-ai-service-desk/actions/workflows/ci.yml/badge.svg)](https://github.com/gibrilkhalil2001-collab/helix-ai-service-desk/actions/workflows/ci.yml)
+
 # Helix: An Agentic Service Desk for School and SME IT Support
 
 Multi agent AI system that triages IT support tickets, answers from documented procedure with
